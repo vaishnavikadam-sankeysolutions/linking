@@ -19,3 +19,22 @@ buildscript {
 }
 
 apply plugin: "com.facebook.react.rootproject"
+
+// buildscript {
+//     ext {
+//         buildToolsVersion = "33.0.0"
+//         minSdkVersion = 21
+//         compileSdkVersion = 33
+//         targetSdkVersion = 33
+//         ndkVersion = "21.4.7075529"
+//     }
+//     repositories {
+//         google()
+//         mavenCentral()
+//     }
+//     dependencies {
+//         classpath("com.android.tools.build:gradle:7.3.0")
+//         classpath("com.google.gms:google-services:4.3.15") // Make sure this is added
+//     }
+// }
+// apply plugin: "com.android.application"

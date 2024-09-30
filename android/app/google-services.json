@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "494150737701",
+    "project_id": "mfg-ev-e0137",
+    "storage_bucket": "mfg-ev-e0137.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:494150737701:android:63bc606d3ce8e7b25704cc",
+        "android_client_info": {
+          "package_name": "com.linking"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNylCFtEEGDflm1ZOoMewJj9_mSZiGVjk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
